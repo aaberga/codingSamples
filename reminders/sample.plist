@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>reminders</key>
+	<array>
+		<dict>
+			<key>completed</key>
+			<string>1</string>
+			<key>created</key>
+			<string>2014-03-08 09:47:58 +0000</string>
+			<key>description</key>
+			<string>Orza!!! Ma orza in fretta... Azz: funziona? Ebbene, sì! O no?
+</string>
+			<key>title</key>
+			<string>Reminder Orza</string>
+			<key>updated</key>
+			<string>2014-03-08 11:39:43 +0000</string>
+		</dict>
+		<dict>
+			<key>completed</key>
+			<string>0</string>
+			<key>created</key>
+			<string>2014-03-07 11:09:59 +0000</string>
+			<key>description</key>
+			<string>Whatever you like; and of course you can even make it quite long.
+
+Yeooww..
+Really long!
+
+
+
+</string>
+			<key>title</key>
+			<string>Reminder A</string>
+			<key>updated</key>
+			<string>2014-03-08 11:34:24 +0000</string>
+		</dict>
+	</array>
+	<key>version</key>
+	<string>1.0</string>
+</dict>
+</plist>
